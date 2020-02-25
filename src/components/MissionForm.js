@@ -1,8 +1,8 @@
 import React from 'react';
 
-const MissionForm = () => {
+const MissionForm = (props) => {
     return (
-        <button className="missionButton">Get Missions</button>
+        <button className="missionButton" onClick={props.onClick}>Get Missions</button>
     )
 }
 
