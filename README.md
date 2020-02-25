@@ -17,7 +17,7 @@
 - [ ] Use the API address above to GET data
 - [ ] Create components folder
 
-- [ ] Create two components: MissionsList.js and MissionForm.js
+- [x] Create two components: MissionsList.js and MissionForm.js
 - [ ] Using a function, create getData to GET the API data and set the state
 - [ ] Set state for isFetchingData
 - [ ] Set state for errors
