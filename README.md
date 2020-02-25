@@ -9,8 +9,8 @@
 
 ### Read the goals of this project before starting
 
-- [ ] Fork the [github repo](https://github.com/mrzacsmith/space-x-mission-data-starter) or the [codesandbox](https://codesandbox.io/s/space-x-mission-data-starter-l7oir)
-- [ ] Install axios dependency
+- [x] Fork the [github repo](https://github.com/mrzacsmith/space-x-mission-data-starter) or the [codesandbox](https://codesandbox.io/s/space-x-mission-data-starter-l7oir)
+- [x] Install axios dependency
 
 ### In no particular order:
 
