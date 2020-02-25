@@ -24,3 +24,19 @@
 - [ ] Using props, pass down the needed props to each component
 - [ ] Use a button to GET data and then display. Include a loading message while data isFetching
 - [ ] Style using CSS, styled components or library of your choice
+
+## Instructions from Zac & Mack
+
+Create components folder
+create missionlist file & missionform js file
+imr in mission list
+create variable and export MissionsList
+imr in mission form
+create variable and export MissionsForm
+import styles to mission form file
+create getMIssions axios call in App js within the function
+create useState with an empty array
+set state for errors by ::
+
+
+
