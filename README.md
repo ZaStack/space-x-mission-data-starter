@@ -14,13 +14,13 @@
 
 ### In no particular order:
 
-- [ ] Use the API address above to GET data
-- [ ] Create components folder
+- [x] Use the API address above to GET data
+- [x] Create components folder
 
-- [ ] Create two components: MissionsList.js and MissionForm.js
-- [ ] Using a function, create getData to GET the API data and set the state
-- [ ] Set state for isFetchingData
-- [ ] Set state for errors
-- [ ] Using props, pass down the needed props to each component
-- [ ] Use a button to GET data and then display. Include a loading message while data isFetching
+- [x] Create two components: MissionsList.js and MissionForm.js
+- [x] Using a function, create getData to GET the API data and set the state
+- [x] Set state for isFetchingData
+- [x] Set state for errors
+- [x] Using props, pass down the needed props to each component
+- [x] Use a button to GET data and then display. Include a loading message while data isFetching
 - [ ] Style using CSS, styled components or library of your choice
